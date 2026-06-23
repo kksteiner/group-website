@@ -1,2 +1,3 @@
 # group-website
-I can describe the repository here
+Repository for learning to make websites with Jekyll and GitHub pages
+Some **bold** font
