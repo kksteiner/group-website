@@ -3,4 +3,4 @@
 ## Description  
 This project is about building a website in GitHub
 
-[About me](aboutme.md)
+[About me](about.md)
