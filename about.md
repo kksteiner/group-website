@@ -1,6 +1,7 @@
-{% include navigation.html %}
+---
+layout: default
+---
 
 # About me  
 My name is Kate and I am a professor of music.
 
-{% include footer.html %}
